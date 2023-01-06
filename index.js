@@ -1,4 +1,3 @@
-//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
 const { Configuration, OpenAIApi } = require ("openai");
 const express = require('express')
 const bodyParser = require('body-parser')
